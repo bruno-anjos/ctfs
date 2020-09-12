@@ -1,0 +1,1416 @@
+[x] Opening connection to crypto.chal.csaw.io on port 5001
+[x] Opening connection to crypto.chal.csaw.io on port 5001: Trying 216.165.2.45
+[+] Opening connection to crypto.chal.csaw.io on port 5001: Done
+Hello! For each plaintext you enter, find out if the block cipher used is ECB or CBC. Enter "ECB" or "CBC" to get the flag!
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+23040d62ee38c1cc8df7edd6f5fba80f
+23040d62ee38c1cc8df7edd6f5fba80f
+aaa0175faaef7e83585f51493501f0ed
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+50762156c2e10de4f26363f2b4223ae0
+af869289a3b9e2001550d55418db02e5
+991163cd3f709138f851ded0a06cb43c
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+48c10715169500528409e43e1a5206c7
+d653de28c5698e5720783e0dc8c7e633
+780e253ff0e19973048230f548d98b2e
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+fc1ee909fe7acbc2835dda9b929a4d02
+fc1ee909fe7acbc2835dda9b929a4d02
+e9716598c59586d774e658dff08f5001
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+861294b8658ae8318f7046713c42520f
+861294b8658ae8318f7046713c42520f
+d2c536da0d169047cd728ecd1131ce2b
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+7a70e6954dc680bc2bb314f6fad57f4e
+6b8b66eff0a25696df7c7a1b24701691
+fbecf4a31c3ca0fed171a8b2db1ceb00
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+a8a6ea4723ee47e056c80acb26b2560e
+c5c46684fb09a3cac2a42f4fe0be0f27
+c63cdf199eef5961e87cd3f2bc99ca56
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+06ceaf393ca97d10806e43950f475dd5
+06ceaf393ca97d10806e43950f475dd5
+d8652310e355bd165ef67595a17c4b98
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+2bcd3d36aadf3a3efec4240393b4ed0c
+2bcd3d36aadf3a3efec4240393b4ed0c
+a72488e8c13b2a28c8c319704f53158c
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+80f698a6fd03bd781764c034164ca075
+b3ef4a6b70bea90f0e2bfbb1d91efca2
+806c24967f102e80befd5c0f1fcf41f6
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ff9f76d2d4b8f9f882c84d5dce0ebf18
+546e2f3718ddc6e7c737a987e8dede0c
+a464c6fba4bfcd75080a37056e4f108c
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+133081ef2aeaddb288c39c805266d24c
+133081ef2aeaddb288c39c805266d24c
+11f9bd92dc63905801b4ccd5c6357942
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+eda18f820d3c0711292f4c39ae27ee21
+6c582af0a0e744eb8465e840d22e58af
+479236e2b3b3161e82cee0e2b2620211
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+379f9614cb04b4d53b34399739313225
+5c71082c546b52026aa123924a7fcbb1
+129f6ec27c42b4ad5932ecf2ff081894
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+edb473da085a347a83686f962902d238
+edb473da085a347a83686f962902d238
+7e81cca00a4f502776260fcfb196daad
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+54611a0d7fcc1ee368692ae17eff2f2d
+54611a0d7fcc1ee368692ae17eff2f2d
+fb6cca5e24843335066da7736c4d7bf7
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+76f6ab72e4bf668da7049822d79bd660
+76f6ab72e4bf668da7049822d79bd660
+d0e0f3ec42cce8b3a0526bc9e2db5808
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+6a768536dd5fda608b6bbf3ca1be0082
+60ae87df349c462f4788da59569f6265
+0ac4f99903b77a5ac7897245d25ec8f3
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+1790e40b5ec2a7edb853d53bbe3e0cf9
+43edbc5fd4fdd968a02ac2e110532a19
+80ec9171e7d445649b5da53a27e88818
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+a164fec51d34443de68c97202f803b1a
+a164fec51d34443de68c97202f803b1a
+95a3945bed8cfc0ac1ecfdee6206e550
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+073f1348a05f60b42fb142db935fe037
+073f1348a05f60b42fb142db935fe037
+d1698ac725540cf06884a2f2106ea430
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+a5ef318fe901d2c556900e56be9720a8
+a5ef318fe901d2c556900e56be9720a8
+14d5b917e596af34ca1d3748163f139c
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+b79b3bae0df796dec6a3d2e3ce7f9dfa
+b79b3bae0df796dec6a3d2e3ce7f9dfa
+5b1f5ed879eb3a349ac549d14c22dc36
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+8dc6396483a0ba871e7080793b04b9b6
+eb3b0353fd0a5496b333e65ccd9fc8dc
+8afa7abc21c378739930d69d1c3f0a77
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+f7b67007a263a7e6fcbd69ea3a1d72fa
+f7b67007a263a7e6fcbd69ea3a1d72fa
+2ccb103f27febdc1254899dda0a45c89
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+cd721954a324930bda6d93c637ce0dcb
+af37abb451679ecdcc91f4a77183fdcc
+ee608d52dc0ed5476cf8a707dde6d07e
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+8591a9935d52f045e8f9834e8d88fd9d
+977c3df1261391339f56c4da05962b22
+cd84dfbc4361af59de1861bf6a9d5c12
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+14587f3781404567171a0c9e58d8a8a5
+14587f3781404567171a0c9e58d8a8a5
+ba3653c8c1241b81599d6d402bc8e3c7
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+dc7144968725e3aa993230de8dd0cae3
+dc7144968725e3aa993230de8dd0cae3
+2a059c85d6010a871dd8b96430ced26a
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ed7a5c9391b594e9896fca095c3e2808
+f3f72c85fbc4315716c5c5458c48f8d0
+c93521a1d089880d16d9b2b8de07f829
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+78f78699fd956c0bd68bb66d816a3b00
+f8b943a0d7a84481a44f8772136f17c2
+42a70328c9dd9194dc4eefd41e7566ae
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+c6bb5ab3c1dac0e11689016ce5feb021
+b7f1a3ce31f2b0e983c0ae38cd278031
+a91bc3bf2b8ea6e4320b58cb182c1bda
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+b7e96e9d7454d3767de3af3b243d6cbd
+b7e96e9d7454d3767de3af3b243d6cbd
+42797fa23931af40f836eb77bb24e6e1
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+cbcd3cd422fed92a4a362af21a76013b
+c770fbb5b4df9e61e239d4ead0f97ea4
+a5c931197be5074fd7a3c82f9f8b7652
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+312b38024f0637f1d0637803875658ee
+89aa7f8a57320058d77df271e658c0bd
+2f79eb625a639ebd5e1de3448fec0c85
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+8a3de0d93bca032c67add49493dc6795
+af6aceae9d0f0c23b39b7b8ecb846016
+d4aed9c732dd363f6f8864f0c8a5714b
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+f9f0cf973654aa8e494068a5f04f4e01
+e8d505ca9392def60cf644d413555918
+4183039a5f9b3ca8f06475a948b60dd8
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+34e6b1c790f96172fb204e27014cc437
+34e6b1c790f96172fb204e27014cc437
+03bd805a2083c832c55d9835b8defece
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+61ec0cc40b89a763ace8a7a3bee4da33
+bd6ce6a112a298813075f402f464e905
+5996ef84dbe7448ab09f8022f1ada0be
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+9cf8a3dcb6ffdafed767b90c2926b9fe
+7d72a4b9b3f512c2059cf66d44416db8
+73b1f34a81f44516a42afa81baca8ea1
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ddc3e0e9d9bab186b9f593976ad2c75e
+ddc3e0e9d9bab186b9f593976ad2c75e
+9ad1734ab131da1cc74f3f2256bfc33d
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+6867030090dd9fea23faf0a3564067c9
+b9537c8ef7afd3e3c269d6148ddb45bd
+810fae1f2f87da99eb5eba7500a5b7ad
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+c361d5f737c84b8ed2cfa01eea679809
+c361d5f737c84b8ed2cfa01eea679809
+d74b9e9a4d2797ba1ffa0616497dbb69
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+4af14317b516ecff1612f0955180de15
+4af14317b516ecff1612f0955180de15
+7d0ea71e4ff265e7a949f750749a31d7
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+b45a9bd6eb2d8df0e496d5b214e07ac8
+b45a9bd6eb2d8df0e496d5b214e07ac8
+8f828eb0b5b34d79bdf8a7f3431a26a8
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+d62920e060de7cb5586e4bd1174bd92d
+43208caf63f98794a374fd7bb7e0ad76
+cbaf766ec363d953aff4e730d30cb20f
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ea4ce60461316d8559a85cd64f1ae554
+ea4ce60461316d8559a85cd64f1ae554
+fc6489088ee3c55619e2c35c9e578983
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+465d52b4d5790fbbc72200f3b41b6088
+852cb8c15bc33d37a95efaae598daf81
+2cd6d41c2ed72a5bec251c8f9b15abe3
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+af8cf310e65faed513f257ce58d4c2e5
+af8cf310e65faed513f257ce58d4c2e5
+f58237d8543665cbe27ca2bfddc80bc0
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+3dbdb9cc28a2ff19023b65fffae0e83a
+4a666582f166ecbd5b09befd277d643c
+192b5202c02eb2f3bef758c65fde7a69
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+4954f348d156bccadba98ca506d32dc7
+4954f348d156bccadba98ca506d32dc7
+ff289079127f41668cb0084aeed8edd0
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+b01794eaa13bba4a622c4753fa4948b3
+b01794eaa13bba4a622c4753fa4948b3
+1e6b1f93d6b5dcb281b67a86b50a53e4
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+8c735a4b57e3f63ae9a8e5fd170cd1da
+8c735a4b57e3f63ae9a8e5fd170cd1da
+965098493e335a13e5d7a692d3835eb8
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+53cfb8ab2b123dc45bd2561ff1f09527
+53cfb8ab2b123dc45bd2561ff1f09527
+ea9951385e03af474116889e2bf4a299
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+7ed0ea4711543ea9ce136aac0b76568b
+41e033d9c84866e3ab7351f4ead65554
+2aed0a42344e79b9de64b6a641ea85b6
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+2d5a5e44886b988f6766c78d2d3829a2
+f8846c7c0ffed394ea345d6f4e8c416a
+4fbb2cec81eeb7c48dca9d6bc5caae6a
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+b8083bbab14091b38f57e7c0f0fb7742
+b8083bbab14091b38f57e7c0f0fb7742
+ee7209b1ce63bfa93fe1d6e606b12585
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+da0efc904a670a98ad516edceb406dfe
+88732c11c06427005882740696fbc7bc
+9475035d0c17e99af129ffec88ccb69d
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+d6fe120e6b59d8b5e09694bad7c9cfb0
+d6fe120e6b59d8b5e09694bad7c9cfb0
+b0de59afc4c3d96ed8692009cd42f657
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+317b27de32252b03a82d9d05b7b138b0
+317b27de32252b03a82d9d05b7b138b0
+3b57bd27b2ddc0e53ee9edf9ce4080b4
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+6465acc871257c29cf8e2e723f8b319c
+6465acc871257c29cf8e2e723f8b319c
+e93a243936788fefb053927e4a080f46
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+cedc6efb790181bd5e849405d2ef466c
+cedc6efb790181bd5e849405d2ef466c
+ccd3020cd57ec4823f35cc4c623d476f
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+130b47d209e2ef2967504919f46ce5e7
+7919a8ffbc43cba25a090a3b5796f270
+d791a4d74d072cc522434219ef5aa5b0
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+773f90e8203c733cca651544f6f3989c
+773f90e8203c733cca651544f6f3989c
+6d80be26ad8c9f913ed6cce109986052
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+2ff51c61e71c870fdf06c8603b659709
+2ff51c61e71c870fdf06c8603b659709
+de281345047a5326600987a02a789fa4
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+7c16a2d8ce368262eaffceccd720371b
+9085787fd8f2e0e922576add33e10b98
+d92b1fccd18ca83f646a05be79272bd3
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+a415f1e4909720fcdbcfbc9211b53572
+a415f1e4909720fcdbcfbc9211b53572
+e05b33d48a550c0dc35ca08ab555a4eb
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+0d132d9d601b2bad028a962ef6315853
+0be22642afd0bbf44b326dadaaa1c5e2
+32127c8bce76c1f59ab843785431fe74
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+120da8081a82b2b86bb11f7a6daa8df0
+bd20a4b981a317449332f664a9a11707
+68dcd0d30c8a72f88f3e1bb19ee6b334
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+6a3b2a266f13e12bad1400cf226e172d
+385fd2c236006c4119771982a32bd9e6
+3660cbf4b7f53d46597118b612d2909a
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+95773c7124e0266f349e932c1889a866
+c93c2d20eee94cb1dd0cfb73c26299d1
+edd003774e9cdc781cc578d89640698d
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+3f6943a4f4f47349459a7680f5159931
+6a549759d7f646108256b29af0b8449e
+f075b856a9f4017a24b7cc6334d6fe87
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+fb0c67b63d78fed964dfd23099280de0
+fb0c67b63d78fed964dfd23099280de0
+894578a901c5d40c052198d1ca9d5fe8
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+59db0d726b5cbdc98003a5dcb8932d3e
+4ae2b97da66aa0ac84f6eb587b7e7cfd
+542672e5133de2948aad29712418cea1
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+69c92b81e5b7d641bd3f91bfa0f4181b
+7a103a9e1760fe5fda55d2ada2512d4c
+c2422c44475150f2b5c0bc7f2004d90e
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+becd8c1e89e4e0a2f754ccb429a5803b
+0c0ee18cd13fa505270afe46d24d059b
+a8ea3d3e52eff7a2b3b2b54e2708aa56
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+8ceb70687f6f5d356be485f27dd4181d
+8ceb70687f6f5d356be485f27dd4181d
+e78544fc5a03c06e900b2d07fcab8b75
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ba93b076a77bb24be1216894192eca35
+ba93b076a77bb24be1216894192eca35
+12be036bdcb8d99097decc8eb013f2bf
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+c5ace98fbc7f065e2fb04efb53d68ded
+165e29bedd0ae430ec3c92f968e55356
+da0270f764915a41d6b23aeac7a14e31
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+6ed5f6d85c815b373837f1c1c31e9ce2
+6ed5f6d85c815b373837f1c1c31e9ce2
+6154aad31e59822bbbcbaeb3eaa6fdc9
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ccbd96faf5f43e34eadbfca430182a69
+ccbd96faf5f43e34eadbfca430182a69
+4afe5718abc141754dd9fc738c6e3ef9
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+d5e902156f79937f8ca22f155e14a38a
+f974adcbc9e25239767768faea0aa576
+d83746af57354990ff4bab34cb7cbd07
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+406fec32e101a10fc8856c7751ee781c
+6ac5847e9e9b45c5d6f3bd3479eb3ba6
+f65e55db11a96218e55e1f0846eff1df
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+cd244b27c720d0bb7f9fe97334e32229
+cd244b27c720d0bb7f9fe97334e32229
+1a09171e00a978ac0d2934ece9e87067
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+6a15c5e372f940591d602a1a9b0b7aa5
+6a15c5e372f940591d602a1a9b0b7aa5
+0964828176dee41a149ea1acb0424fb4
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+fe5d8764077e3cb12f2ce80bcd9f267b
+2aa26b8b9f8b38e86a5d4136c16d9191
+a658c2862a41080d9df217a01fea3858
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+1c5e7eece1131a2c2202bff7a8e05f1a
+1c5e7eece1131a2c2202bff7a8e05f1a
+89107a1178a8d6ebbf7a333bb00406fe
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+81cc0a87aee05e6cecfccf6bf4193f16
+2f552fce72e104796613c9b2748891fb
+1db039b39ddf6d07247c0220b7943059
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+5268240b80dd8d153d230d9302031553
+5268240b80dd8d153d230d9302031553
+6a70529582f8a73c74b6f7bd363e2f2d
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+a482e68954bf72378f53d8616ed59ff0
+cd51b080b0331826309a82b31bdd6347
+23825f671c1ca1c1dba7661764a2b03e
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+96c83a5c2e131bba596bae2fd79e9da8
+96c83a5c2e131bba596bae2fd79e9da8
+d564efec6c3335d6f670e544e6eb1bdc
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+6a1a679e1c0d2bfb93969a2be043613c
+6a1a679e1c0d2bfb93969a2be043613c
+188d88ebeb2d8f67efcbf743ecbf1f89
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+37baaec383506f77e903caee140b3eac
+37baaec383506f77e903caee140b3eac
+bb8d3319603e100abd47d3e59e81b6d3
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+13c19f8d0bd22a5d0344dec1015fbb89
+13c19f8d0bd22a5d0344dec1015fbb89
+4183ebac945e31fd27176471161e87d4
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+a6b5ff3c9d01cb14fa4fb5a3d7fe685e
+a6b5ff3c9d01cb14fa4fb5a3d7fe685e
+f4376b535e668dad9dea8d3e965ccda6
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+081805ac3eb700998aa9860ddcb22799
+081805ac3eb700998aa9860ddcb22799
+4cf68789da43e84ab0dc98d4960be279
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+1325f30f886462ac4fb738f89cec1f72
+1325f30f886462ac4fb738f89cec1f72
+731a6a46a12e2294e5c6c2b85aeb78d8
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+93dd6d3fc909c43c12836e97bde1be1f
+ed84a83145339215374f61f6152e002c
+3b9be13f459a1ef46c796a26ceaa96df
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+dd57e2c1c4ed9b28c4172912ca38a5ef
+0af0ceae4b1bc417e9d32c3c861d20e6
+ae8524583cb96f59a26195ff07ccf194
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+f0e3ccb9901d05dc2bf9501cc5251542
+f0e3ccb9901d05dc2bf9501cc5251542
+344af6a5e0557e1fc9e5d7d0b0733544
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ea7bd73f70218ca731e92edd68942b14
+2314b592ff32db6a3af2cc27aff7d0fe
+d26dc9fecdfff654d233fc3872429b4a
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+963b31c2cbda7060366fe79f2b937983
+85e60b935c1be627189e5b5198ba59eb
+1ae483e15f19478989a10ec719875ae4
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+b81fe516e97ed26e707d0d2d9369d045
+b81fe516e97ed26e707d0d2d9369d045
+e3593599d3a8adad6a6bcf2c034d37bc
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+6e47e04bf8a0bcf1ac468eebba95c820
+6e47e04bf8a0bcf1ac468eebba95c820
+62cd8de13fa6c0dbdec682a797d5db3f
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ee46e0afb8ad72a51c8d2be84422bc85
+ee46e0afb8ad72a51c8d2be84422bc85
+1e7ff680807fb64a0c1c5c6b165600bb
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+8283b479eda5b55f0cd5c76339b12cd0
+3b3d1a197535b74d57981b1ccc25d7b8
+e185e28d15a910757b0d015d4d2b853c
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+72c335153f039df1f8547f44b29aa785
+29799100badd07174559e3ed1e75cbae
+552b4d349a561bb66f5a841c69640129
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ddbb8afb6c0c61b500dad031db94e32f
+ddbb8afb6c0c61b500dad031db94e32f
+d8941b175232cc3e586b0829679c9241
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+62d197716b34065ce276244d579145bb
+b17818824dd4f0a839f9734467307539
+62a4383372d4ba41dd5e8c6a6ee530e9
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+a24b0e84486d5d4533e163977022e0a4
+95d36909b266a99ef9b3a2f41eefbe3a
+5a7b6466a2d76cb9d5b1800828019e9b
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+1720737b8df53eb4a0cb4d4701e0962c
+1720737b8df53eb4a0cb4d4701e0962c
+64bc14b865cd014b849168aa1ec65bf5
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+34d0e86aed6f078ef3b094eeef9025fd
+34d0e86aed6f078ef3b094eeef9025fd
+8903ec77f9c433d1d352416ca835ef70
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+a4d763eef65a1dc1f22908fd68f15b28
+a4d763eef65a1dc1f22908fd68f15b28
+1fd25b957ea173d78943cd4267bfbc3b
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ed2f29d92f692493e7cce88c79898a83
+90990efa4119a22eceb27cf008ce7361
+84bee2a0ecd538d6a031849eb2db0051
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+e99f09d6716b31c2c4ffed1c8ec10373
+77a066ae54759d71a9b622af014f72f7
+278981daa3a8f8be3a89228a870efe13
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+0b2c53b9c8d8e377b808fe71d74b31e1
+e99612aae9ab8c5fe9bd6501ccf15296
+04694d129919bb103c23ad368e910c1b
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+7634835084cad525993db6b3456e3c0a
+163f96cca2235166c7dac9502e3ad16c
+d2d798a86498eefa5b69c317e7e2dfb0
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+8b712372dc6fd1ba85019e960b1121c2
+8b712372dc6fd1ba85019e960b1121c2
+7993cb8035018ec9da2aaedfdd01b77d
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+77a7dcf0cca0d004c088d9d82894a274
+77a7dcf0cca0d004c088d9d82894a274
+7df38404bc2859c8bd0200c826e71a12
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+7b96af8837548a5c8caf07d580719939
+44dca961d35bc079baa44d25d298eb0c
+dea4364e65a6911a4f7ece65ac146fee
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+9c7f16eac174d45568adc02d6690f009
+9c7f16eac174d45568adc02d6690f009
+43c4822755e6e9a2cb3ddf6d72d01fe8
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+a43ca71efa247cfac86ca8f3ba9b645f
+604b1ca2cbc6f3ed59b764e4a627fdeb
+07ece8f8ac3d833793fb0bcad7ea0105
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+27711e08216c4c8496e4315d9a72a016
+27711e08216c4c8496e4315d9a72a016
+80fcb28bd30811b9770d75e634c8a4d1
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ad38758a37f302a88dde4eca69c918a0
+131c15f925984bcd2b20cca14d07736b
+48642ddd253066c46d36a395c6bc398e
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+8391be178a895a6cee247cd78cb2e91c
+a22cbc5c8afb902526cea8c421a9065d
+44569bab04d4353d2109bb6b40ace7d4
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+6b8c80d3b85946e2ef7a9fed69648bec
+59dfa70f2c28f4f689a0396438536746
+5f1a64364fbf16c1e93df7e5189a055a
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+599fa66107bcebdbbefb4f7e001a1201
+0866dcdf4295887cc347a02b648c4ca6
+7d0bf64bb35a86a755deec7f1914b1cd
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+bb068f7b27ee6817eaebbeffc2ca37e9
+d51f09aaf868710c5c51dbe9ae9d5be5
+018b20586ee69fac6b2f5c9fa0146994
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+b86657aa6c8d9d8f0412877211ce749f
+b86657aa6c8d9d8f0412877211ce749f
+945f6da26ac2f3dcb168d3cfc4c8ebb5
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+cfae0211f21d1f4661e88d87b713b762
+a03bfb09f497155c1652d397c3b8d139
+57f2e53e0f8416adc843c2a3926279e1
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+98cfba572ede78c371e16e6cd80b2db5
+35e31ba2d4db2789e21e5f1e1b1cc068
+31bb52657c751db4630201b70a91388f
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+3bd1671fb5ac7428274479e332c7b3b2
+02bb0b13616877129a7e1ffab1853ba5
+c5f5e3f03869fde17887158af8c51d2a
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+8a1b28d0a64111a6233e4e66a684844e
+8a1b28d0a64111a6233e4e66a684844e
+76ce0b756e700b5be67ef8d86eb3beeb
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+839b9803d09bc145ba8bf8277a752557
+839b9803d09bc145ba8bf8277a752557
+7262ca77be4bf83d3ac5717286548932
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+099c1e63508adf877fd3630e94c22d5d
+c89260d6294094b4824e634860e1a111
+ada3abb0da6528a6f9d804a09f7c2bf4
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+68c242177790ca06693beba057e43940
+f627921514d992270172ae192a53ec25
+6123518716963d01c612565f2cdd88f3
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+9db29fe27537676ae06e29c2e7abc5d3
+9db29fe27537676ae06e29c2e7abc5d3
+9f7015bdd72a4f45776b5c46e2aedd32
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+e046b4ea6fc80700ef190d4461fece27
+807ec6d79b6e286e9880560dadb63d14
+415acdaf8b4ecf4af81f8032f7de4ec5
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+d725d0237bc8d7ad501a023db55c744f
+d725d0237bc8d7ad501a023db55c744f
+610defbaddffe743f67b42f8b284ecf9
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+799eb3bd7f6b909b802dc92f697cd14a
+ecd9b31f7282fa32b0f3d014b61036c5
+22e5c2d9888990b0ffc6404f40edc762
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+feea140fbdf21d185b26674f77497725
+feea140fbdf21d185b26674f77497725
+1951d961ce30cc386ffb78ccca0ca311
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+9ad454e56c359264e3ece0096bc3cd07
+4285bde83111f31ebbdf42b868715842
+805d374c59dc9d82eb93bf3b602cea62
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ab353820ab996a5560a414e2685e2611
+ab353820ab996a5560a414e2685e2611
+3692e41695d5af8bd8f7f733f9f964c5
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+8c5db5396767f98ed834b5fe8bb16fce
+4364cffec7581fe0b80ffa33a6952604
+bc429bf702f77e283710a667ef64ccbc
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+a2b2eb4c85fe7ad7691476541961b0ab
+a2b2eb4c85fe7ad7691476541961b0ab
+bbd0f919079a633a2f2e7063da51279c
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+06de837f41b60b4cd94fb3df8b27a847
+05e2cd53a0d7104406ef0035c5b098ce
+cd7bbcca626631e227ad1034f7a1b841
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+b7bb4e417a54dfadf28457fc0e76ce36
+b03bb3f1c4dc9ec4181cf4e47a28ff7f
+d38800dcf09a4e6f1c96f5af96b689aa
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+f20b49828669f898a10f1cf8f4bfe8a1
+f20b49828669f898a10f1cf8f4bfe8a1
+bdb3a6516b3722f256918c97f32f8272
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+475e59bbb13de67751925aa1df399725
+475e59bbb13de67751925aa1df399725
+1e550c4e5a7f905aad5a0f3f514fdcda
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+9008e568f07083f53e706a187b703211
+9008e568f07083f53e706a187b703211
+881a2609a10bc80c77f3c209ce86a392
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+6bd72af6b4799eb39d5fee1a9c35a30b
+6a0ba806220916b4d31c44056a7b8a12
+dfe4aa2c18fcff820fdd4945427a6cb3
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+409051c4aba4868ed689e3e1d0cea156
+80da4950ea4d9b4dbd2df4d7ba70d8cd
+a7ab5caa25b601539c8e81195de98eee
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+7ad8b6c733883b1c98d1c9172a6c8986
+7ad8b6c733883b1c98d1c9172a6c8986
+d6d5e6400d6ca516aedebda9c165c59f
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+5ff0c8bb8530385e2e199ef0ff7833d6
+1a8340ca40eeba3741068d5d2bde2e4d
+34443f379f78005ff2f27934df7dcada
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+e7e664d5502d2a3d5920bd060462ccf2
+1819a46818ba16363c4844edd6ad8a07
+4365a2164a7424611170426506c7a342
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+907b45e8ec0f47e1b4d02d995f4a1846
+907b45e8ec0f47e1b4d02d995f4a1846
+78194a93bd1a08ace5e8f5f26e6306d3
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+9265fe0cc9f74a6f418734510f4547ee
+d15ba55ba63d84f896c5b854543bce00
+9a339b66551538bdc65e296d2f105ce3
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+535c1ac6f86bdfc247815604a37cb816
+535c1ac6f86bdfc247815604a37cb816
+7993c99a8556317cfd2c3f2050b4c534
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+d12b5bae2e3bdf3d589d6277b8670e4d
+93d6bb13fd199d845716b70d6fae5f0d
+cd2bdd0d8dcbbd232bcb789f3c44f716
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+7aab6a87fbfd3a77e58871e3e01325bc
+4e7fa0310835c5e5007d42ef7d9d45f6
+92238c851ce2a361b7c35e1eeef41091
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+165559fe2d5b9b633f5a93f2962d0598
+165559fe2d5b9b633f5a93f2962d0598
+6cf6d3f25ab4a7df01fc9fb55b2fe0dc
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+7a9f7c4c8770c96f390eeeab1f806ffb
+7a9f7c4c8770c96f390eeeab1f806ffb
+3fbdc036b86781e14f06b9835d671c02
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+f75a4f41476320e7633344396e6970ab
+c4e37b97747128087063b2e18dc04ffd
+453f7640068b8ad5ebd2daa4390e122f
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+be19018b9294350cd2cd5e6fe981c3d0
+be19018b9294350cd2cd5e6fe981c3d0
+c79e8aacca243042af681c84d6667949
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+09cf8cb4cab2d18af2b418094140062e
+09cf8cb4cab2d18af2b418094140062e
+cbaadea8d3c704ab7e2c72d1cbc8deb7
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+d6bde7974aaa096c847f0da293c0b610
+37baeeb7117e4d02340759f6198e08ab
+18e3a1ccb1223c51f399254759b28c92
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+233a5bed9e35471406f57433f615d7fd
+233a5bed9e35471406f57433f615d7fd
+3182da92ee76bcb7e9912051c8061e04
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+07f2d88c75333276c2b4dc614288f4c8
+07f2d88c75333276c2b4dc614288f4c8
+86d9ba4126ef4ec1a7f5841729f8a9fc
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+7f978f08b0f9a6822d7a2f60fa374acb
+7f978f08b0f9a6822d7a2f60fa374acb
+a980e17b9b22e9f4003ff684513a045f
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+feb8a697a4d10f60032378a43bd35243
+646089e22267445e0713fbf281415d55
+4c44a9eaf8abbe116092c16060f80179
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+cde679dc6fc510909b3ce60da37ef4fa
+8888072787aa9cfcdbb6000fc799043b
+77b2e69b8dd49ddc4e746139d671653d
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+aa5c4c049314cf26b25b5f5994abf03a
+42d3868019bfc843dcbf378adeef3f80
+885daad7074dd8a42d6ac9c059f9be1c
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+ae826503617999c0b26436fd5886cd0d
+51001c5a266dc9e3c931af2e780e60f2
+93fc04f262e90f0f59ed54b59186152d
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+d506aaafa14d1ac334a7fb30710fe9cc
+15ff1b39ca81fcfb3e5ea3ff61fa4448
+3e3273d120170ffbd8cd9eb06ff3bacb
+ECB or CBC? 
+CBC
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+739cc1431e07840acf00562e95d32469
+739cc1431e07840acf00562e95d32469
+eabbd60c039ef7572f2f9340720d6dd3
+ECB or CBC? 
+ECB
+Enter plaintext: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Ciphertext is:
+7e6f663f8b8fd6e5736661273526b4e8
+b8e9b164000916484b8642706e38aa20
+4f6321fe9ea00001a887ac9b1a978edd
+ECB or CBC? 
+CBC
+b''
+time took:  38.69732856750488
+reached 86, 90
+seq:  ['ECB', 'CBC', 'CBC', 'ECB', 'ECB', 'CBC', 'CBC', 'ECB', 'ECB', 'CBC', 'CBC', 'ECB', 'CBC', 'CBC', 'ECB', 'ECB', 'ECB', 'CBC', 'CBC', 'ECB', 'ECB', 'ECB', 'ECB', 'CBC', 'ECB', 'CBC', 'CBC', 'ECB', 'ECB', 'CBC', 'CBC', 'CBC', 'ECB', 'CBC', 'CBC', 'CBC', 'CBC', 'ECB', 'CBC', 'CBC', 'ECB', 'CBC', 'ECB', 'ECB', 'ECB', 'CBC', 'ECB', 'CBC', 'ECB', 'CBC', 'ECB', 'ECB', 'ECB', 'ECB', 'CBC', 'CBC', 'ECB', 'CBC', 'ECB', 'ECB', 'ECB', 'ECB', 'CBC', 'ECB', 'ECB', 'CBC', 'ECB', 'CBC', 'CBC', 'CBC', 'CBC', 'CBC', 'ECB', 'CBC', 'CBC', 'CBC', 'ECB', 'ECB', 'CBC', 'ECB', 'ECB', 'CBC', 'CBC', 'ECB', 'ECB', 'CBC', 'ECB', 'CBC', 'ECB', 'CBC', 'ECB', 'ECB', 'ECB', 'ECB', 'ECB', 'ECB', 'ECB', 'CBC', 'CBC', 'ECB', 'CBC', 'CBC', 'ECB', 'ECB', 'ECB', 'CBC', 'CBC', 'ECB', 'CBC', 'CBC', 'ECB', 'ECB', 'ECB', 'CBC', 'CBC', 'CBC', 'CBC', 'ECB', 'ECB', 'CBC', 'ECB', 'CBC', 'ECB', 'CBC', 'CBC', 'CBC', 'CBC', 'CBC', 'ECB', 'CBC', 'CBC', 'CBC', 'ECB', 'ECB', 'CBC', 'CBC', 'ECB', 'CBC', 'ECB', 'CBC', 'ECB', 'CBC', 'ECB', 'CBC', 'ECB', 'CBC', 'CBC', 'ECB', 'ECB', 'ECB', 'CBC', 'CBC', 'ECB', 'CBC', 'CBC', 'ECB', 'CBC', 'ECB', 'CBC', 'CBC', 'ECB', 'ECB', 'CBC', 'ECB', 'ECB', 'CBC', 'ECB', 'ECB', 'ECB', 'CBC', 'CBC', 'CBC', 'CBC', 'CBC', 'ECB', 'CBC']
