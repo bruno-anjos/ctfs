@@ -100,7 +100,7 @@ Traceback (most recent call last):
 EOFError
 ```
 
-It gave us a EOF after a while. After trying a couple of times we would understand this behaviour is recurrent.
+It gave us an EOF after a while. After trying a couple of times we would understand this behaviour is recurrent.
 
 After fiddling a bit (a lot actually) we can get to the result by checking out the cipher modes sequence.
 
@@ -134,4 +134,11 @@ for mode in mode_seqs:
 print(binary)
 ```
 
-Our resulting binary is `01100110011011000110000101100111011110110100010101000011010000100101111101110010011001010100000001101100011011000111100101011111011100110101010101100011011010110010010001111101`. If we translate this to characters we get `flag{ECB_re@lly_sUck$}`. That's it.
+Our resulting binary is:
+```
+0110011001101100011000010110011101111011010001010100001101000010010111110111001
+0011001010100000001101100011011000111100101011111011100110101010101100011011010
+110010010001111101
+```
+
+If we translate this to characters we get `flag{ECB_re@lly_sUck$}`. That's it.
